@@ -32,9 +32,9 @@ The Incident Initiation Email is the initial communication sent to the respectiv
 
 The Firewall Rule Creation Request is a communication sent to the respective team responsible for managing the firewall. It outlines the details of the ongoing attack, provides information about the type of traffic to be blocked, and includes any additional research findings on the attack. The purpose of this task is to analyze firewall logs, identify patterns in the attacker's network requests, and request the creation of a firewall rule to mitigate the attack.
 
-##Task 3 (T3) - Firewall Server
+## Task 3 (T3) - Firewall Server
 
-This repository contains the solution for Task 3 of the Telstra Cybersecurity Virtual Experience - Firewall Server. The Firewall Server is designed to handle incoming HTTP requests, analyze them for potential malicious headers, and block requests that match the predefined set of bad headers.
+This repository contains the solution for Task 3 of the Telstra Cybersecurity Virtual Experience - Firewall Server. The Firewall Server is designed to handle incoming HTTP requests, analyze them for potential malicious headers, and block requests that match the predefined set of bad headers. See "main.py" for the Python code.
 
 ## Usage
 
