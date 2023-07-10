@@ -41,7 +41,7 @@ This repository contains the solution for Task 3 of the Telstra Cybersecurity Vi
 1. Clone the repository to your local machine:
 
 ```shell
-git clone https://github.com/<your-username>/<repository-name>.git
+git clone https://github.com/<your-username>/<TelstraCybersecurityAnalyst>.git
 ```
 
 ### Navigate to the cloned repository:
@@ -50,7 +50,7 @@ cd <repository-name>
 ```
 Run the Firewall Server:
 ```shell
-python firewall_server.py
+python main.py
 ```
 The Firewall Server will start running on localhost at port 8000.
 
