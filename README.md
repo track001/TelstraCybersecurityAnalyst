@@ -1,4 +1,4 @@
-# Cybersecurity Analyst at Telstra 
+# Cybersecurity Analyst at [Telstra ]([url](https://www.telstra.com.au/))
 This repository showcases the Day in the Life (DITL) of a cybersecurity analyst at Telstra, a leading telecommunications company based in Australia. The DITL experience focuses on handling a malware attack and includes the following 4 tasks:
 
 ### Task 1: Responding to a Malware Attack
