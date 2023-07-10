@@ -46,7 +46,7 @@ git clone https://github.com/track001/TelstraCybersecurityAnalyst.git
 
 ### Navigate to the cloned repository:
 ```shell
-cd <repository-name>
+cd <TelstraCybersecurityAnalyst>
 ```
 Run the Firewall Server:
 ```shell
