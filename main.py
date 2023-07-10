@@ -3,11 +3,13 @@ Task 3/4: Develop a firewall rule to mitigate the ongoing malware attack on the 
 
 Solution:
 - Create a custom firewall server that blocks incoming requests to the specific path "/tomcatwar.jsp".
-- All other requests will be handled as usual.
-"""
+- The firewall server analyzes incoming requests and checks for specific headers associated with the malicious payload.
+- If a request matches the Spring Framework path and contains the identified bad headers, the server blocks the request and throws a 403 error.
+- All other requests are handled as usual, allowing legitimate traffic to pass through.
 
-# www.theforage.com - Telstra Cyber Task 3
-# Firewall Server Handler
+www.theforage.com - Telstra Cyber Task 3
+Firewall Server Handler
+"""
 
 from http.server import BaseHTTPRequestHandler, HTTPServer
 
@@ -66,4 +68,3 @@ if __name__ == "__main__":
     server.server_close()
     print("[+] Server terminated. Exiting...")
     exit(0)
-
