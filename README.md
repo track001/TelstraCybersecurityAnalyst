@@ -41,7 +41,7 @@ This repository contains the solution for Task 3 of the Telstra Cybersecurity Vi
 1. Clone the repository to your local machine:
 
 ```shell
-git clone https://github.com/<your-username>/<TelstraCybersecurityAnalyst>.git
+git clone https://github.com/track001/TelstraCybersecurityAnalyst.git
 ```
 
 ### Navigate to the cloned repository:
