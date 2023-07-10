@@ -64,8 +64,6 @@ The `handle_request` function processes each incoming request. It checks the req
 The ServerHandler class defines the behavior for different HTTP methods (GET and POST). It calls the handle_request function to process incoming requests.
 
 ## Task 4 (T4) - Postmortem
-
-## Description
 This repository contains the postmortem report for the Spring4Shell malware attack incident. The postmortem provides a detailed analysis of the incident, including its impact, detection, root cause, resolution, and action items for future improvement.
 
 The Spring4Shell malware attack targeted the Spring Framework within our system infrastructure. The incident was promptly detected and addressed by the Security Operations Center (SOC) team. This postmortem report outlines the key findings and actions taken to mitigate the attack.
