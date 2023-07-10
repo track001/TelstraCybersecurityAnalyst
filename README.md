@@ -1,4 +1,6 @@
-# Cybersecurity Analyst at [Telstra ]([url](https://www.telstra.com.au/))
+# Cybersecurity Analyst at Telstra
+- https://www.telstra.com.au/
+
 This repository showcases the Day in the Life (DITL) of a cybersecurity analyst at Telstra, a leading telecommunications company based in Australia. The DITL experience focuses on handling a malware attack and includes the following 4 tasks:
 
 ### Task 1: Responding to a Malware Attack
@@ -24,7 +26,7 @@ This repository provides solutions, code samples, and example emails for each ta
 
 # Expansion of the Tasks
 
-## Task 1 (T1): Incident Initation - Awareness and Mitigation
+## Task 1 (T1): Incident Initiation - Awareness and Mitigation
 
 The Incident Initiation Email is the initial communication sent to the respective team responsible for addressing the ongoing malware attack. It provides awareness about the attack and offers mitigation advice to begin the incident response process. The purpose of this task is to triage current malware threats, identify affected infrastructure, and initiate an incident response.
 
