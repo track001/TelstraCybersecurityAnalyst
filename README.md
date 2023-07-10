@@ -104,7 +104,7 @@ ACSC 8 essential mitigation strategies are a set of recommended cybersecurity pr
 - Application Control: Ensuring only approved applications can be installed or executed on systems.
 - Patch Applications: Upgrading software to the latest versions to fix known vulnerabilities.
 - Configure Microsoft Office Macro settings: Securing Microsoft Office applications by managing macro settings.
-- User Application hardening: Configuring and updating applications to work securely.
+- User Application Hardening: Configuring and updating applications to work securely.
 - Restrict Administrative privileges: Limiting administrative privileges to minimize the risk of unauthorized access.
 - Patch Operating Systems: Keeping operating systems up to date with the latest patches.
 - Regular Backups: Performing regular backups to protect data and enable recovery in case of an incident.
