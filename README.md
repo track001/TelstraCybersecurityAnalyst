@@ -99,7 +99,12 @@ The action items section provides a list of recommended steps and measures to pr
 By conducting this postmortem and implementing the recommended action items, we aim to strengthen our system security, minimize the risk of future incidents, and ensure the ongoing protection of our infrastructure and data.
 
 # ACSC 8 Mitigation Strategies 
-ACSC 8 essential mitigation strategies are a set of recommended cybersecurity practices to make it harder for adversaries to compromise systems. These strategies are:
+ACSC 8 essential mitigation strategies are a set of recommended cybersecurity practices to make it harder for adversaries to compromise systems. 
+
+[Get the Basics of Cyber Security Right: The Essential Eight](https://www.telstra.com.au/smarter-business/cyber-security-and-safety/how-to-get-the-basics-of-cyber-security-right)
+
+
+These strategies are:
 
 - Application Control: Ensuring only approved applications can be installed or executed on systems.
 - Patch Applications: Upgrading software to the latest versions to fix known vulnerabilities.
