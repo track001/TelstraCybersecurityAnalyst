@@ -98,3 +98,13 @@ The action items section provides a list of recommended steps and measures to pr
 
 By conducting this postmortem and implementing the recommended action items, we aim to strengthen our system security, minimize the risk of future incidents, and ensure the ongoing protection of our infrastructure and data.
 
+# ACSC 8 Mitigation Strategies 
+ACSC 8 essential mitigation strategies are a set of recommended cybersecurity practices to make it harder for adversaries to compromise systems. These strategies are:
+
+- Application Control: Ensuring only approved applications can be installed or executed on systems.
+- Patch Applications: Upgrading software to the latest versions to fix known vulnerabilities.
+- Configure Microsoft Office Macro settings: Securing Microsoft Office applications by managing macro settings.
+- User Application hardening: Configuring and updating applications to work securely.
+- Restrict Administrative privileges: Limiting administrative privileges to minimize the risk of unauthorized access.
+- Patch Operating Systems: Keeping operating systems up to date with the latest patches.
+- Regular Backups: Performing regular backups to protect data and enable recovery in case of an incident.
